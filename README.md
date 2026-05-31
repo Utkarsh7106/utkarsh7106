@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Utkarsh7106&color=0e75b6&style=flat-square&label=Profile+Views)
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Utkarsh+Mishra;Data+Analyst+%F0%9F%93%8A;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Scientist+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+Systems" alt="Typing SVG" />
@@ -78,15 +76,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh7106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh7106&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
